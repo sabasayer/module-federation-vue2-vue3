@@ -1,0 +1,8 @@
+{
+  "private":true,
+  "name": "module-federation-vue2-vue3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "workspaces":["packages/*"]
+}
